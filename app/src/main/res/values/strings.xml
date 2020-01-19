@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">StudIT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_test">testActivity</string>
+    
+    <string-array name="matieres">
+        <item>Histoire</item>
+        <item>Géographie</item>
+        <item>Français</item>
+        <item>Maths</item>
+        <item>Anglais</item>
+        <item>Espagnole</item>
+        <item>Allemand</item>
+        <item>SL</item>
+        <item>SVT</item>
+        <item>PSC</item>
+        <item>SES</item>
+
+    </string-array>
+
+</resources>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/last_update"
+        android:icon="@drawable/ic_homework"
+        android:title="Dernier ajouts"/>
+
+    <item
+        android:id="@+id/filter_homework"
+        android:icon="@drawable/ic_homeworkfilt"
+        android:title="Matières"/>
+
+</menu>

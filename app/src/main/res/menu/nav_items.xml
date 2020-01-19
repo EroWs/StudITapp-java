@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/nav_home"
+        android:title="Accueil" />
+
+    <item
+        android:id="@+id/nav_maclasse"
+        android:icon="@drawable/nav_classroom"
+        android:title="Ma classe" />
+
+    <item
+        android:id="@+id/nav_homework"
+        android:icon="@drawable/nav_homework"
+        android:title="Mes cours" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/user"
+        android:title="Mon profil"/>
+
+</menu>
